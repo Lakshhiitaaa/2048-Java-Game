@@ -1,5 +1,5 @@
 # 2048-Java-Game
-<<<<<<< HEAD
+
 This is a Java Swing implementation of the popular 2048 Game.
 Players can slide numbered tiles on a 4x4 grid to combine them and reach the 2048 tile.
 
@@ -24,23 +24,18 @@ Requirements
 Java JDK 8 or above
 
 IDE or terminal to run Java files
-=======
 
 ## Screenshots
 
 ### Game Board
 
-![Game Board](images/Screenshot 2025-10-17 014117)
+![Game Board](images/Screenshot_2025-10-17_014117.png)
 
 ### Gameplay
 
-![Gameplay](images/Screenshot 2025-10-17 013157)
+![Gameplay](images/Screenshot_2025-10-17_013157.png)
 
 ### Game Over
 
-![Game Over](images/Screenshot 2025-10-17 013450)
-
-### Game Over
-
-![Game Over](images/Screenshot 2025-10-17 013630)
->>>>>>> fd75605 (Add screenshots and update README)
+![Game Over](images/Screenshot_2025-10-17_013450.png)
+![Game Over](images/Screenshot_2025-10-17_013630.png)
