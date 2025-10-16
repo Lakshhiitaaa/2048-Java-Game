@@ -1,0 +1,12 @@
+# Ignore compiled and build files
+bin/
+out/
+target/
+*.class
+*.jar
+
+# Ignore IDE/project files
+.idea/
+.settings/
+*.iml
+*.log
