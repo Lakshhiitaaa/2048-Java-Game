@@ -31,13 +31,13 @@ Fully functional desktop application.
 
 ### 🟨 Game Board
 
-![Game Board](../images/Screenshot_2025-10-17_014117.png)
+![Game Board](src/images/Screenshot_2025-10-17_014117.png)
 
 ### 🎮 Gameplay
 
-![Gameplay](../images/Screenshot_2025-10-17_013157.png)
+![Game Screenshot](src/images/Screenshot_2025-10-17_013157.png)
 
 ### ❌ Game Over
 
-![Game Over](../images/Screenshot_2025-10-17_013450.png)
-![Game Over](../images/Screenshot_2025-10-17_013630.png)
+![Game Over](src/images/Screenshot_2025-10-17_013450.png)
+![Game Over](src/images/Screenshot_2025-10-17_013630.png)
